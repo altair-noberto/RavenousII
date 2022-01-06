@@ -1,6 +1,6 @@
 ### Cola no meu git, vai ter bolo :p
 
-- 🌱 Atualmente estudando C.
+- 🌱 Atualmente estudando Javascript.
 - 📫 Contato: altairnoberto@outlook.com.br
 - 😄 Pronomes: Ele/Dele, Ela/Dela
 
